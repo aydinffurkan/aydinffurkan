@@ -115,5 +115,5 @@ I'm a Flutter Developer 📱, .NET Developer 💻!
 
 ## 📈 GitHub Stats 
 
-[![Muhammet's github stats](https://github-readme-stats.vercel.app/api?username=muhammetsalci)](https://github.com/muhammetsalci)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetsalci&layout=compact) 
+[![Muhammet's github stats](https://github-readme-stats.vercel.app/api?username=aydinffurkan)](https://github.com/aydinffurkan)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aydinffurkan&layout=compact) 
