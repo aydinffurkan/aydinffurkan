@@ -1,6 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=salcimuhammeth&label=Profile%20views&color=0e75b6&style=flat" alt="salcimuhammeth" /> </p>
 
-<p align="center"><img src="" alt="my banner"></a>
 </p>
 
 <h3 align="center">
